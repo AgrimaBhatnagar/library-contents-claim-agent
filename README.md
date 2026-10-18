@@ -3,8 +3,6 @@
 
 An AI-assisted prototype for documenting library contents through camera capture, identifying books and non-book objects, researching market prices, estimating dimensions where calibration is available, and generating structured insurance claim reports.
 
-> **Project status:** Prototype for an insurance contents assessment workflow. Automated tests cover selected components; live model performance, measurement accuracy, and assessment pass criteria require real-world validation.
-
 ---
 
 ## Table of Contents
