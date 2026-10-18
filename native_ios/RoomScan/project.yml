@@ -1,0 +1,21 @@
+name: LibraryClaimRoomScan
+options:
+  deploymentTarget:
+    iOS: "16.0"
+targets:
+  LibraryClaimRoomScan:
+    type: application
+    platform: iOS
+    sources:
+      - path: LibraryClaimRoomScanApp.swift
+      - path: RoomPlanScannerView.swift
+    info:
+      path: Info.plist
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.example.LibraryClaimRoomScan
+        SWIFT_VERSION: "5.9"
+        TARGETED_DEVICE_FAMILY: "1,2"
+        IPHONEOS_DEPLOYMENT_TARGET: "16.0"
+        GENERATE_INFOPLIST_FILE: NO
+        INFOPLIST_FILE: Info.plist

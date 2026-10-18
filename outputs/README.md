@@ -1,0 +1,1 @@
+Generated claim packets, HTML reports and evidence frames are written here at runtime. Keep real submission evidence here only after an actual room sweep; do not submit synthetic test frames as claim evidence.
