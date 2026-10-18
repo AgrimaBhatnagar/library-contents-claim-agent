@@ -401,7 +401,8 @@ The demonstration should show the actual application, the capture workflow, the 
 
 ### Assessment reports
 
-- [Final Library Contents Claim Report (HTML)](outputs/Library_Contents_Claim_Report5.html)
+- [Reference-format HTML report](outputs/Library_Contents_Claim_Report5.html)
+- [Final Library Contents Claim Report (HTML)](https://drive.google.com/file/d/1g0HxVVpeffXGzhC5ncsxb36tkZ-dXLuY/view?usp=sharing)
 - [Standardized HTML report](outputs/Library_Contents_Claim_Report_standardized.html)
 - [Architecture note](ARCHITECTURE.md)
 - [Failure log template](FAILURE_LOG_TEMPLATE.md)
